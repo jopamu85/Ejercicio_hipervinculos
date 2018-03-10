@@ -1,9 +1,12 @@
+body
+{
+  color: green; 
+} !important
 h1
 {
   background-color: black;
   color: white;
   font-family: verdana;
-  foreground: white;
 }
 p
 {
@@ -31,5 +34,5 @@ a
 div
 {
   margin-top: 10px;
-  margin-left: 20px; 
+  margin-left: 20px;
 }
