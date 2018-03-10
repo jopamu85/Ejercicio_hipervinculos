@@ -18,8 +18,18 @@ html
 footer
 {
   font-family: verdana;
+  color: white;
 }
 img
 {
   background-color: white;
+}
+a
+{
+  color: white;
+}
+div
+{
+  margin-top: 10px;
+  margin-left: 20px; 
 }
